@@ -1,3 +1,10 @@
 *.ncb
 *.aps
 *.suo
+*.obj
+*.pch
+*.pdb
+*.exe
+*.ilk
+*.idb
+*.dep
